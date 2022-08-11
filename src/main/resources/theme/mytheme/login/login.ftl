@@ -127,9 +127,7 @@
 <script>
 function weixinDoLogin()
 {
-
-
-    window.location.replace('http://www.cnblogs.com/chenyablog')
+    // window.location.replace('https://github.com/Sky-Jun')
 }
 </script>
 
